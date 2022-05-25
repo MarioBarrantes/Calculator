@@ -1,6 +1,6 @@
 n1 = input (float ("Ingrese el primero numero"))
 n2 = input (float ("Ingrese el segundo numero"))
 
-op = n2 + n1
+op = n2 - n1
 
-print (f"el resultado de la suma es = {op}")
+print (f"el resultado de la resta es = {op}")
